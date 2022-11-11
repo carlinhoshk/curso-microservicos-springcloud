@@ -7,7 +7,7 @@ ports:
   - port: 8080
     onOpen: open-preview
   
-  -port: 8081
+  - port: 8081
     onOpen: abrirCloak
 
 
