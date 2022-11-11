@@ -7,10 +7,6 @@ ports:
   - port: 8080
     onOpen: open-preview
   
-  - port: 8081
-    onOpen: abrirCloak
-
-
 vscode:
   extensions:
     - pivotal.vscode-spring-boot
